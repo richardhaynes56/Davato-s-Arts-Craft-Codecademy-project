@@ -1,0 +1,64 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: 700;
+  color: khaki;
+  position: absolute;
+  
+  margin-bottom: 40px;
+  margin-left: 50px;
+}
+.pattern {
+  height: 135px;
+  width: 100%;
+  margin-top: 60px;
+}
+.brushes {
+  font-size: 40px;
+  color: #fff;
+  margin-top: 80px;
+  display: block;
+  background-color: springgreen;
+}
+.Hacksaw {
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 20px;
+}
+span {
+  font-family: Helvetica;
+  font-weight: 700;
+  color: blue;
+}
+.frames {
+  font-family: Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+  display: block;
+  background-color: lightcoral;
+}
+.artframes {
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 20px;
+}
+span {
+  font-family: Helvetica;
+  font-weight: 700;
+  color: blue;
+}
+.paint {
+  font-family: Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+  display: block;
+  background-color: skyblue;
+  
+}
+.finnishpaint{
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 20px;
+}
